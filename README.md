@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫:  I'm Pursuing B.E CSE at JEC"24<br>👨‍💼:   UI/UX Designer & Front-End-Developer<br>📫  Ask me about anything, I am happy to help<br>💻 :computer: &nbsp;Connect with me on [LinkedIn](/https://www.linkedin.com/in/maheshwaran-s-/)<br>📫 How to reach me maheshwarans542@gmail.com<br>🐦  Let's talk more in Twitter<br>
+🏫:  I'm Pursuing B.E CSE at JEC"24<br>👨‍💼:   UI/UX Designer & Front-End-Developer<br>📫  Ask me about anything, I am happy to help<br>💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheshwaran-s-/)<br>📫 How to reach me maheshwarans542@gmail.com<br>🐦  Let's talk more in Twitter<br>
 
 
 ## 🌐 Socials:
