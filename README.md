@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫:  I'm Pursuing B.E CSE at JEC"24<br>👨‍💼:   UI/UX Designer & Front-End-Developer<br>📫  Ask me about anything, I am happy to help<br>💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheshwaran-s-/)<br>📫 How to reach me maheshwarans542@gmail.com<br>🐦  Let's talk more in Twitter<br>
+🏫:  I'm Pursuing B.E CSE at JEC"24<br>👨‍💼:   UI/UX Designer & Front-End-Developer<br>📫  Ask me about anything, I am happy to help<br>💻  Connect with me on LinkedIn<br>📫 How to reach me maheshwarans542@gmail.com<br>🐦  Let's talk more in Twitter<br>
 
 
 ## 🌐 Socials:
@@ -20,8 +20,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SMaheshwaran&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SMaheshwaran&icon=7&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
